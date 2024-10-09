@@ -1,7 +1,7 @@
 # PyDocInCHM
 
 ## 0.About this readme
-This article is a readme for PyDocInCHM. 它的中文版为[readme.md](readme.md)
+This article is a readme for PyDocInCHM. 它的中文版为[README.md](README.md)
 
 ## 1. Overview
 
