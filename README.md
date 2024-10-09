@@ -14,7 +14,7 @@ PyDocInCHM是一个简单实用的 Python 程序，可以将 Python 官方文档
 ## 2.技术特点
 这是一个"学习作品", 是本人在Python学习过程中开发的第一个有实际用途的程序，在这个作品中我学习使用了如下一些Python编程技术:
 * 利用BeautifulSoup、LXML库分析、修改HTML文件
-* 调用Winodows下的动态链接库(DLL)
+* 调用Winodows下的动态链接库(HHA.DLL)
 * Python日志功能的使用
 * Python操作压缩文件(zip)
 * 其它Python基本的文件操作，字符串处理功能
