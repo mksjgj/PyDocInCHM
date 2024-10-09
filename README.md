@@ -1,7 +1,7 @@
 # PyDocInCHM
 
 ## 0.关于本文
-本文是PyDocInCHM的中文版自述文件。 The English version of this article is [readme_en.md](readme_en.md)
+本文是PyDocInCHM的中文版自述文件。 The English version of this article is [README_en.md](README_en.md)
 
 
 ## 1.概述
