@@ -6,7 +6,9 @@
 
 ## 1.概述
 PyDocInCHM是一个简单实用的 Python 程序，可以将 Python 官方文档从 HTML 格式转换为 CHM 格式，例如 python-3.11.9-docs-html.zip --> python-3.11.9-docs.chm。  
-因为Python官方从3.11起不再提供CHM格式的文档，但是在Windows下CHM使用起来比原始HTML以及EPub都方便、高效，因此我开发了这个程序。
+因为Python官方从3.11起不再提供CHM格式的文档，但是在Windows下CHM使用起来比原始HTML以及EPub都方便、高效，因此我开发了这个程序。  
+
+如果你只是单纯想下载一个生成好的CHM文件，到这[里来](..\PD-CHM)。  
 
 
 ## 2.技术特点
