@@ -1,4 +1,4 @@
-# PyDocInCHM
+# PyDocInCHM - Python Document in CHM Format
 
 ## 0.关于本文
 本文是PyDocInCHM的中文版自述文件。 The English version of this article is [README_en.md](README_en.md)
