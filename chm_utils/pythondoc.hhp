@@ -1,0 +1,24 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file={0:s}
+Contents file=pythondoc.hhc
+Default Window=pythondoc
+Default topic=index.html
+Display compile notes=No
+Display compile progress=Yes
+Error log file=_ErrorLog.Log
+Full text search stop list file=Fts_stop_list.stp
+Full-text search=Yes
+Index file=pythondoc.hhk
+Language=0x409 English (US)
+Title=Python {1:s} documentation
+
+[WINDOWS]
+pythondoc="Python {1:s} documentation","pythondoc.hhc","pythondoc.hhk","index.html","index.html",,,,,0x63520,220,0x10384e,[0,0,1024,768],,,,,,,0
+
+
+[FILES]
+{2:s}
+
+[INFOTYPES]
+
