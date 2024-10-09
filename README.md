@@ -39,6 +39,6 @@ PyDocInCHM是一个简单实用的 Python 程序，可以将 Python 官方文档
 
 ## 5.联系作者 
 作者： 麦轲(Mykore)
-主页: http://www.mksjgj.com
+主页: http://www.mksjgj.com  
 邮箱: mksjgj@qq.com  
 QQ: 3073365368
