@@ -1,4 +1,4 @@
-# PyDocInCHM - CHM格式的Python官方文档(Python Document in CHM Format)
+# PyDocInCHM -- 一个用于将Python官方文档从HTML格式转换为CHM格式的工具
 
 
 ## 0.关于本文
