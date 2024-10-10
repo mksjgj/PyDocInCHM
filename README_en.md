@@ -1,13 +1,12 @@
-# PyDocInCHM - A tool for converting official Python documentation from HTML format to CHM format
+# PyDocToCHM - A tool for converting official Python documentation from HTML format to CHM format
 
 ## 0.About this readme
-This article is a readme for PyDocInCHM. 它的中文版为[README.md](README.md)
+This article is a readme for PyDocToCHM. 它的中文版为[readme.md](readme.md)
 
 ## 1. Overview
 
-PyDocInCHM is a simple and practical Python program that can convert the official Python documentation from HTML format to CHM format, for example, `python-3.11.9-docs-html.zip --> python-3.11.9-docs.chm`.   
+PyDocToCHM is a simple and practical Python program that can convert the official Python documentation from HTML format to CHM format, for example, `python-3.11.9-docs-html.zip --> python-3.11.9-docs.chm`.   
 Since Python.org stopped providing CHM format documentation starting from version 3.11, and using CHM is more convenient and efficient than raw HTML or EPub on Windows, I developed this program.  
-  
 The comments in this program are mainly in Chinese, and I believe machine translation should be sufficient for you to understand them. If you feel that some translations need to be confirmed, no problem, please contact me according to the contact information at the end of this file, but I can only provide some assistance with English translation.  
   
 If you just want to download a generated CHM file, go [here](../../../Python-Doc-in-CHM)
@@ -45,7 +44,7 @@ This program uses the following third-party Python packages:
 - Packaging 24.1
 
 ## 5. Contact Author MyKore
-- Author: MyKore 
-- home page: http://www.mksjgj.com
-- Email: mksjgj@qq.com
+- Author: MyKore  
+- home page: http://www.mksjgj.com  
+- Email: mksjgj@qq.com  
 - QQ: 3073365368
