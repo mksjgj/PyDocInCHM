@@ -10,7 +10,7 @@ Since Python.org stopped providing CHM format documentation starting from versio
   
 The comments in this program are mainly in Chinese, and I believe machine translation should be sufficient for you to understand them. If you feel that some translations need to be confirmed, no problem, please contact me according to the contact information at the end of this file, but I can only provide some assistance with English translation.  
   
-If you just want to download a generated CHM file, go [here](../../../PD-CHM)
+If you just want to download a generated CHM file, go [here](../../../Python-Doc-in-CHM)
 
 ## 2. Technical Features
 
