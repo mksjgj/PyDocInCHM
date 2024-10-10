@@ -1,21 +1,21 @@
-# PyDocInCHM -- 一个用于将 Python 官方文档从 HTML 格式转换为 CHM 格式的工具
-
+# PyDocToCHM -- 一个用于将Python官方文档从HTML格式转换为CHM格式的工具
 
 ## 0.关于本文
-本文是PyDocInCHM的中文版自述文件。 The English version of this article is [README_en.md](README_en.md)
+本文是PyDocToCHM的中文版自述文件。 The English version of this article is [readme_en.md](readme_en.md)
 
 
 ## 1.概述
-PyDocInCHM是一个简单实用的 Python 程序，可以将 Python 官方文档从 HTML 格式转换为 CHM 格式，例如 python-3.11.9-docs-html.zip --> python-3.11.9-docs.chm。  
+PyDocToCHM是一个简单实用的 Python 程序，可以将 Python 官方文档从 HTML 格式转换为 CHM 格式，例如 python-3.11.9-docs-html.zip --> python-3.11.9-docs.chm。  
 因为Python官方从3.11起不再提供CHM格式的文档，但是在Windows下CHM使用起来比原始HTML以及EPub都方便、高效，因此我开发了这个程序。  
+  
+如果你只是单纯想下载一个生成好的CHM文件，到这[里来](../../../Python-Doc-in-CHM)。
 
-如果你只是单纯想下载一个生成好的CHM文件，到这[里来](../../../Python-Doc-in-CHM)。  
 
 
 ## 2.技术特点
 这是一个"学习作品", 是本人在Python学习过程中开发的第一个有实际用途的程序，在这个作品中我学习使用了如下一些Python编程技术:
 * 利用BeautifulSoup、LXML库分析、修改HTML文件
-* 调用Winodows下的动态链接库(HHA.DLL)
+* 调用Winodows下的动态链接库(DLL)
 * Python日志功能的使用
 * Python操作压缩文件(zip)
 * 其它Python基本的文件操作，字符串处理功能
